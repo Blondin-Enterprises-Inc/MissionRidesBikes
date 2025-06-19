@@ -1,3 +1,3 @@
 function sayHello() {
-  alert("Hello from your static site!");
+  alert("Hello Mission's Cyclists!");
 }
